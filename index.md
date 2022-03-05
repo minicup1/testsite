@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/minicup1/testsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-## You can download by going to this link: [Donwload](https://mega.nz/file/lSgXia7a)
+## You can download by going to this link: [Download](https://mega.nz/file/lSgXia7a)
 
 ### Information
 
